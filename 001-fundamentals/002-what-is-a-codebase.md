@@ -16,7 +16,7 @@ All of that together is your codebase.
 
 ---
 
-### 2. What is a codebase? (plain English)
+### 2. What is a codebase?
 
 👉 A codebase is:
 
@@ -33,7 +33,7 @@ As it exists right now.
 
 ---
 
-### 3. Codebase ≠ repository (very important)
+### 3. Codebase ≠ repository
 
 This is a common confusion. Let’s separate them clearly.
 
@@ -95,7 +95,7 @@ A real backend codebase usually includes:
 
 ---
 
-### 5. One app vs multiple apps (important for monorepos)
+### 5. One app vs multiple apps
 
 A codebase can be:
 
@@ -119,7 +119,7 @@ A monorepo may have:
 
 ---
 
-### 6. Codebase size does NOT mean complexity (important)
+### 6. Codebase size does NOT mean complexity
 
 Many beginners think:
 
@@ -187,6 +187,6 @@ You must understand:
 
 ---
 
-### One-sentence definition (memorize this)
+### One-sentence definition
 
 A codebase is the complete set of source code and related files that make up a software system at a given point in time.
