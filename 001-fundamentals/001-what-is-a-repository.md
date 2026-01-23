@@ -15,7 +15,7 @@ That “place + history + rules” is called a repository.
 
 ---
 
-### 2. What is a repository? (plain English)
+### 2. What is a repository? 
 
 👉 A repository (often called repo) is:
 
@@ -27,7 +27,7 @@ A folder that contains your project’s code **AND** the full history of how tha
 
 ---
 
-### 3. Repository ≠ normal folder (important)
+### 3. Repository ≠ normal folder 
 
 A normal folder:
 
@@ -118,7 +118,7 @@ Imagine writing a book:
 
 ---
 
-### 7. Local vs remote repositories (basic awareness)
+### 7. Local vs remote repositories
 
 **Local repository**
 
@@ -162,7 +162,7 @@ We must understand:
 
 ---
 
-### 9. Common beginner misconceptions (important)
+### 9. Common beginner misconceptions 
 
 ❌ **“Repository = GitHub”**  
 → No. GitHub hosts repositories, it is not the repository itself.
@@ -175,6 +175,6 @@ We must understand:
 
 ---
 
-### One-sentence definition (memorize this)
+### One-sentence definition
 
 A repository is a version-controlled folder that stores code and tracks every change made to it over time.
